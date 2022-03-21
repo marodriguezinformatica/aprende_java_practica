@@ -1,1 +1,0 @@
-Prácticas sobre interfaces gráficas
